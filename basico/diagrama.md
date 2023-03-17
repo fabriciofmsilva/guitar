@@ -8,10 +8,22 @@ previous:
     title: Notas no braço
 next:
     url: acordes.html
-    title: Acordes essenciais maiores e menores abertos
+    title: Acordes abertos
 ---
 
 # Diagrama
+{: .no_toc }
+
+Conhecendo o diagrama de acordes.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 Ferramenta de notação musical, que representa um acorde.
 

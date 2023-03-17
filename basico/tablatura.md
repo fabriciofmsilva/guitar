@@ -12,6 +12,18 @@ next:
 ---
 
 # Tablatura
+{: .no_toc }
+
+Introdução inicial a tablatura.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 A tablatura é uma forma de notação musical.
 

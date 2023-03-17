@@ -3,6 +3,12 @@ layout: default
 title: Básico
 nav_order: 1
 has_children: true
+previous:
+    url: ../index
+    title: Página Inicial
+next:
+    url: guitarra.html
+    title: A guitarra
 ---
 
 # Básico

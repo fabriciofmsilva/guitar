@@ -12,13 +12,18 @@ next:
 ---
 
 # A guitarra
+{: .no_toc }
 
-- História da guitarra
-- Conhecendo a guitarra (anatomia da guitarra)
-- Amplificador
-- Pedal
-- Pedaleira
-- Palheta
+Conhecendo a guitarra, amplificadores, efeitos e palhetas.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## História da guitarra
 
@@ -32,6 +37,7 @@ Em 1950 Leo Fender lançou o seu primeiro modelo de guitarra a Telecaster e em 1
 
 As primeiras guitarras do modelo Les Paul, começaram a ser vendidas em 1952, desenvolvida pelo engenheiro John Huis em conjunto com o guitarrista Les Paul.
 
+---
 
 ## Conhecendo a guitarra (anatomia da guitarra)
 
@@ -55,6 +61,8 @@ As primeiras guitarras do modelo Les Paul, começaram a ser vendidas em 1952, de
 
 Modelos comuns de guitarra: Stratocaster, Telecaster, Les Paul, SG, Superstrato, etc.
 
+---
+
 ## Amplificador
 
 Tem a função de amplificar o volume de som da guitarra.
@@ -68,6 +76,8 @@ Tem a função de amplificar o volume de som da guitarra.
 - Valvulados vs transistorizados
 - Combo ou stack
 
+---
+
 ## Pedal
 
 Normalmente tem apenas 1 efeito por pedal.
@@ -79,6 +89,8 @@ Normalmente tem apenas 1 efeito por pedal.
 - Reverbs
 - Delays
 
+---
+
 ## Pedaleira
 
 Vários efeitos na mesma caixa.
@@ -86,6 +98,8 @@ Vários efeitos na mesma caixa.
 Normalmente são mais custo benefícios que os pedais.
 
 Tem a desvantagem de ficarem defasadas com o tempo e novos modelos sendo lançados.
+
+---
 
 ## Palheta
 

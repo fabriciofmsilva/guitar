@@ -12,7 +12,25 @@ next:
 ---
 
 # Notas no braço
+{: .no_toc }
 
-- Cordas soltas
-- Escala cromática
-- Localizando notas
+Aprenda a localizar as notas pelo braço da guitarra.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Cordas soltas
+
+---
+
+## Escala cromática
+
+---
+
+## Localizando notas

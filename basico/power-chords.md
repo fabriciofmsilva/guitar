@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Dedilhado
+title: Power chords
 parent: Básico
-nav_order: 11
+nav_order: 9
 previous:
+    url: acordes.html
+    title: Acordes abertos
+next:
     url: ritmos-levadas.html
     title: Ritmos e Levadas
-next:
-    url: metronomo.html
-    title: Metrônomo
 ---
 
-# Dedilhado
+# Power chords
 {: .no_toc }
 
-Dedilhando.
+Power chords.
 {: .fs-6 .fw-300 }
 
 ## Table of contents

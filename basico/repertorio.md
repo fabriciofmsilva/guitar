@@ -1,11 +1,40 @@
 ---
 layout: default
-title: Repertório (classic rock base, solos básicos e punk rock)
+title: Repertório
 parent: Básico
-nav_order: 23
+nav_order: 17
+previous:
+    url: cronograma.html
+    title: Cronograma de estudos
+next:
+    url: /intermediario
+    title: Módulo intermediário
 ---
 
-# Repertório (classic rock base, solos básicos e punk rock)
+# Repertório
+{: .no_toc }
 
-Básico
-{: .label .label-blue }
+Classic rock e punk rock.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Classic rock
+
+---
+
+### Base
+
+---
+
+### Solo
+
+---
+
+## Punk rock

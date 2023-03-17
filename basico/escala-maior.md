@@ -1,11 +1,28 @@
 ---
 layout: default
-title: Escala de dó maior
+title: Escala maior
 parent: Básico
-nav_order: 21
+nav_order: 15
+previous:
+    url: pestana.html
+    title: Pestana
+next:
+    url: cronograma.html
+    title: Cronograma de estudos
 ---
 
-# Escala de dó maior
+# Escala maior
+{: .no_toc }
 
-Básico
-{: .label .label-blue }
+Começando com a escala maior.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## Escala de dó maior

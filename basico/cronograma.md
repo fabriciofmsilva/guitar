@@ -2,10 +2,25 @@
 layout: default
 title: Cronograma de estudos
 parent: Básico
-nav_order: 22
+nav_order: 16
+previous:
+    url: escala-maior.html
+    title: Escala maior
+next:
+    url: repertorio.html
+    title: Repertório
 ---
 
 # Cronograma de estudos
+{: .no_toc }
 
-Básico
-{: .label .label-blue }
+Cronograma de estudos.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---

@@ -12,6 +12,18 @@ next:
 ---
 
 # Postura
+{: .no_toc }
+
+Postura é muito importante no seu treino.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 Escolha uma cadeira confortável e com encosto, de preferencia sem o encosto de braço.
 
@@ -19,17 +31,23 @@ Duas formas de segurar, na perna direita ou esquerda.
 
 Evite estudar com a guitarra deitada.
 
+---
+
 ## Aquecimento
 
 Exercícios de alongamento são controversos, existem linhas que dizem para não fazer no inicio do treino e sim no final.
 
 Gosto de fazer exercícios simples em velocidades moderadas pra começar.
 
+---
+
 ## Alongamento
 
 - Puxar a mão para cima com o braço esticado
 - Puxar a mão para baixo com o braço esticado
 - Puxar o cotolevo no sentido do peito
+
+---
 
 ## Palheta
 
@@ -38,6 +56,8 @@ Como segurar a palheta, gosto de segurar a palheta com o dedão pousando em cima
 É importante não fazer muita força, somente o suficiente para segurar a palheta firme e ela não cair quando tocar as cordas.
 
 TODO: Tablatura dos exercícios de palhetada com a corda solta.
+
+---
 
 ## Atrito
 

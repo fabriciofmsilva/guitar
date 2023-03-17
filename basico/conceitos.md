@@ -12,6 +12,18 @@ next:
 ---
 
 # Conceitos básicos
+{: .no_toc }
+
+Conhecendo a guitarra, amplificadores, efeitos e palhetas.
+{: .fs-6 .fw-300 }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Notas musicais
 
@@ -22,6 +34,8 @@ Dó, Ré, Mi, Fá, Sol, Lá, Si
 Devemos saber ler de forma ascendente (Dó, Ré, Mi, Fá, Sol, Lá, Si) e Descendente (Si, Lá, Sol, Fá, Mi, , Ré, Dó).
 
 Além das 7 notas naturais temos mais 5 notas conhecidas como acidentes músicas (veremos mais em breve), formando um total de 12 notas.
+
+---
 
 ## Cifras
 
