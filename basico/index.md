@@ -2,11 +2,12 @@
 layout: default
 title: Básico
 nav_order: 1
+has_children: true
 ---
 
 # Básico
 
-1. Anatomia da Guitarra
+<!-- 1. Anatomia da Guitarra
 1. Conceitos Básicos
 1. Postura
 1. Tablatura
@@ -28,4 +29,4 @@ nav_order: 1
 1. Exemplos de sequencias com pestana
 1. Escala de Dó  Maior
 1. Cronograma de Estudos
-1. Repertório (Classic Rock base, solos básicos e punk rock)
+1. Repertório (Classic Rock base, solos básicos e punk rock) -->
