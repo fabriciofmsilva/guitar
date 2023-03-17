@@ -17,7 +17,7 @@ next:
 Aprenda a localizar as notas pelo braço da guitarra.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Tópicos
 {: .no_toc .text-delta }
 
 1. TOC

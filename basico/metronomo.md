@@ -17,7 +17,7 @@ next:
 Pratique com o metrônomo.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Tópicos
 {: .no_toc .text-delta }
 
 1. TOC

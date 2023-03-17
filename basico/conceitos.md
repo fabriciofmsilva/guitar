@@ -17,7 +17,7 @@ next:
 Conhecendo a guitarra, amplificadores, efeitos e palhetas.
 {: .fs-6 .fw-300 }
 
-## Table of contents
+## Tópicos
 {: .no_toc .text-delta }
 
 1. TOC
