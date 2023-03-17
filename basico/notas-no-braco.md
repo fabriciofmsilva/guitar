@@ -9,3 +9,7 @@ nav_order: 5
 
 Básico
 {: .label .label-blue }
+
+- Cordas soltas
+- Escala cromática
+- Localizando notas

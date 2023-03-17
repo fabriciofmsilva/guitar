@@ -9,3 +9,5 @@ nav_order: 4
 
 Básico
 {: .label .label-blue }
+
+- Tablatura

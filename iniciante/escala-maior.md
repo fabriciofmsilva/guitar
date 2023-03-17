@@ -9,3 +9,6 @@ nav_order: 4
 
 Iniciante
 {: .label .label-blue }
+
+- Formação escala maior (#)
+- Formação escala maior (b)

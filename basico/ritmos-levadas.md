@@ -9,3 +9,6 @@ nav_order: 11
 
 Básico
 {: .label .label-blue }
+
+- Ritmos
+- Levadas

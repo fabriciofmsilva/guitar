@@ -9,3 +9,6 @@ nav_order: 2
 
 Básico
 {: .label .label-blue }
+
+- Notas musicais
+- Cifras

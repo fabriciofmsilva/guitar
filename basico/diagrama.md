@@ -9,3 +9,5 @@ nav_order: 8
 
 Básico
 {: .label .label-blue }
+
+- Diagrama

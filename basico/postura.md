@@ -9,3 +9,6 @@ nav_order: 3
 
 Básico
 {: .label .label-blue }
+
+- Aquecimento
+- Atrito

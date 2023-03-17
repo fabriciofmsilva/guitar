@@ -9,3 +9,5 @@ nav_order: 6
 
 Básico
 {: .label .label-blue }
+
+- Cordas soltas

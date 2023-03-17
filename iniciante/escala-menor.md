@@ -9,3 +9,5 @@ nav_order: 5
 
 Iniciante
 {: .label .label-blue }
+
+- Formação escala menor

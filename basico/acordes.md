@@ -9,3 +9,8 @@ nav_order: 9
 
 Básico
 {: .label .label-blue }
+
+- Acordes maiores
+- Acordes menores
+- Acordes M7
+- Acordes m7

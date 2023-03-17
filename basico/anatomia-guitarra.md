@@ -9,3 +9,9 @@ nav_order: 1
 
 Básico
 {: .label .label-blue }
+
+- História da guitarra
+- Conhecendo a guitarra (anatomia da guitarra)
+- Amplificadores
+- Palheta
+- Pedais e pedaleiras

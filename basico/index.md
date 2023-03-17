@@ -7,6 +7,14 @@ has_children: true
 
 # Básico
 
+## Boas vindas
+
+Seja bem-vindo ao meu guia de estudos que vai do básico ao master.
+
+Eu uso esse repositório para salvar algumas aulas e fazer algumas anotações baseadas em cursos, livros e treinos que faço.
+
+Fique a vontade para ajudar a fazer esse repositório crescer.
+
 <!-- 1. Anatomia da Guitarra
 1. Conceitos Básicos
 1. Postura
