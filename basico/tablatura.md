@@ -3,12 +3,15 @@ layout: default
 title: Tablatura
 parent: Básico
 nav_order: 5
+previous:
+    url: afinacao.html
+    title: Afinação
+next:
+    url: notas-braco.html
+    title: Notas no braço
 ---
 
 # Tablatura
-
-Básico
-{: .label .label-blue }
 
 A tablatura é uma forma de notação musical.
 

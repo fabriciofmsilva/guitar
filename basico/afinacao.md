@@ -3,12 +3,15 @@ layout: default
 title: Afinação
 parent: Básico
 nav_order: 4
+previous:
+    url: postura.html
+    title: Postura
+next:
+    url: tablatura.html
+    title: Tablatura
 ---
 
 # Afinação
-
-Básico
-{: .label .label-blue }
 
 ## Cordas soltas
 

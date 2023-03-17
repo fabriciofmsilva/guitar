@@ -3,12 +3,15 @@ layout: default
 title: A guitarra
 parent: Básico
 nav_order: 1
+previous:
+    url: index.html
+    title: Módulo básico
+next:
+    url: conceitos.html
+    title: Conceitos básicos
 ---
 
 # A guitarra
-
-Básico
-{: .label .label-blue }
 
 - História da guitarra
 - Conhecendo a guitarra (anatomia da guitarra)

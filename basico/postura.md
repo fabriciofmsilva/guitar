@@ -3,12 +3,15 @@ layout: default
 title: Postura
 parent: Básico
 nav_order: 3
+previous:
+    url: conceitos.html
+    title: Conceitos Básicos
+next:
+    url: afinacao.html
+    title: Afinação
 ---
 
 # Postura
-
-Básico
-{: .label .label-blue }
 
 Escolha uma cadeira confortável e com encosto, de preferencia sem o encosto de braço.
 

@@ -3,12 +3,15 @@ layout: default
 title: Diagrama
 parent: Básico
 nav_order: 7
+previous:
+    url: notas-braco.html
+    title: Notas no braço
+next:
+    url: acordes.html
+    title: Acordes essenciais maiores e menores abertos
 ---
 
 # Diagrama
-
-Básico
-{: .label .label-blue }
 
 Ferramenta de notação musical, que representa um acorde.
 
