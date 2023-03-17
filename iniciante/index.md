@@ -2,11 +2,12 @@
 layout: default
 title: Iniciante
 nav_order: 2
+has_children: true
 ---
 
 # Iniciante
 
-1. Dicas de Estudo
+<!-- 1. Dicas de Estudo
 1. Limpeza
  - Monitoramento de progresso
  - Estudo nas 12 tonalidades
@@ -46,4 +47,4 @@ nav_order: 2
 1. Cronograma de Estudos
     - Divisão por tópicos
 1. Repertório (Classic Rock c/ solos improvisados)
-1. Backing Tracks em Mp3 de cada tonalidade
+1. Backing Tracks em Mp3 de cada tonalidade -->
