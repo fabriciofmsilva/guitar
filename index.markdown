@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Repositório com um estudo guiado para guitarra.
