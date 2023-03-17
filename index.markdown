@@ -18,8 +18,10 @@ Seguindo por nível de dificuldade
 Seguindo por tópicos
 
 1. [Setup](./setup/)
+1. [Fluencia no braço](./fluencia/)
+1. [Técnica](./tecnica/)
 1. [Leitura](./leitura/)
 1. [Harmonia](./harmonia/)
 1. [Improvisação](./improvisacao/)
-1. [Técnica](./tecnica/)
 1. [Repertório](./repertorio/)
+1. [Composição](./composicao/)
