@@ -54,6 +54,22 @@ Em outras palavras, a escala cromática é uma escala formada por todas as notas
 
 A escala cromática é usada em diversos gêneros musicais, como jazz, blues, rock, música clássica, entre outros. É uma ferramenta importante para o estudo da teoria musical, da harmonia e da improvisação, além de ser utilizada para a criação de melodias e solos de guitarra.
 
+-
+
+Escala é um conjunto de notas tocadas sucessivamente, definida por algum padrão de intervalos.
+
+A escala cromática anda de semitom em semitom.
+
+C C# D D# E F F# G G# A A# B C.
+
+Acidentes musicais, são os dois sinas ♯ (sustenido) sempre vai pra frente e o ♭ (bemol) sempre vai pra trás.
+
+### Notas enarmônicas
+
+Notas enarmônicas são notas que possuem a mesma altura sonora, mas são escritas com nomes diferentes. Isso acontece porque na música ocidental utilizamos a escala cromática, que é composta por doze notas distintas (7 notas naturais e 5 notas alteradas). As notas enarmônicas ocorrem quando duas ou mais notas possuem o mesmo som, mas são escritas de maneiras diferentes, geralmente alterando o acidente que as acompanha. Por exemplo, o Dó# (Dó sustenido) e o Réb (Ré bemol) são notas enarmônicas, pois representam a mesma altura sonora, mas são escritas com nomes diferentes.
+
+C# e Db, D# e Eb, F# e Gb, G# e Ab, A# e Bb, B e Cb, F e Eb.
+
 ---
 
 ## Localizando notas
@@ -85,3 +101,11 @@ Aprenda a ler notação musical: Aprender a ler notação musical pode ajudá-lo
 Use marcadores no braço da guitarra: Algumas guitarras têm marcadores no braço para ajudá-lo a localizar as notas. Se a sua guitarra não tiver marcadores, você pode adicionar alguns você mesmo usando adesivos ou marcadores permanentes.
 
 Use aplicativos e recursos online: Existem muitos recursos online, incluindo aplicativos para celular, que podem ajudá-lo a localizar as notas no braço da guitarra. Esses recursos geralmente têm jogos e exercícios que podem ajudá-lo a praticar a localização de notas de forma divertida e interativa.
+
+- 
+
+Cada semitom representa uma casa da guitarra.
+
+Precisamos saber a corda que estamos e qual nota ela repesentar, exemplo a primeira corda é o E, vamos localizar o E na escala cromática, qual é a próxima nota F (primeira casa é F).
+
+Exercício, encontrar as notas G, A, Bb e F# na primeira e na segunda corda.

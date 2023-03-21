@@ -39,6 +39,18 @@ Paciência e perseverança: Lembre-se que a técnica de fazer pestanas requer pa
 
 -
 
+A pestana consiste em tocar duas ou mais cordas ao mesmo tempo em uma casa da guitarra, normalmente é usado o dedo indicador.
+
+Tente não deixar o dedão aparecendo, pressione próximo do traste mais perto do corpo.
+
+Exercício
+
+Pressione a corda 1 na quinta casa, depois as cordas 1 e 2, depois as cordas 1, 2, 3 e 4, depois as cordas 1, 2, 3, 4 e 5, depois as cordas 1, 2, 3, 4, 5 e 6 e volta.
+
+Depois tente fazer na casa 4, 3, 2 e 1.
+
+-
+
 ## Como fazer acordes com pestana
 
 Fazer acordes com pestana pode ser desafiador no começo, mas com prática e técnica é possível executá-los com precisão. Aqui estão algumas dicas que podem ajudar:

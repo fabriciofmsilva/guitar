@@ -156,3 +156,221 @@ Toque a batida no primeiro acorde por quatro tempos e, em seguida, mude para o p
 Continue alternando entre os acordes e tocando a levada até que você tenha dominado a sequência e consiga tocá-la fluentemente.
 
 Lembre-se de praticar devagar no início e, gradualmente, aumentar a velocidade conforme você se torna mais confortável com a levada.
+
+## Exercício
+
+### Exercício 1 - Soltando a mão
+
+Pegue um acorde de C, por exemplo e faça a levada (baixo, cima, baixo, cima):
+
+```
+| V ^ V ^ | 
+| 1 2 3 4 |
+| I P I P |
+```
+
+### Exercício 2 - Soltando a mão
+
+Pegue um acorde de C, por exemplo e faça a levada (baixo, cima, baixo, baixo):
+
+```
+| V ^ V V | 
+| 1 2 3 4 |
+| I P I I |
+```
+
+### Exercício 3 - Soltando a mão
+
+```
+| V V ^^^ V | 
+| 1 2 3   4 |
+| I I PPP I |
+```
+
+### Exercício 4 - Dobrando as batidas
+
+### Exercício 5 - Dobrando as batidas com dinâmica
+
+### Exercício 6 - Dobrando as batidas subindo e descenco
+
+### Exercício 7 - Dobrando as batidas subindo e descenco com dinâmica
+
+### Exercício 8 - Dobrando as batidas abafando
+
+- Como Eu Quero - Kid Abelha
+- Have You Ever Seen The Rain? - Creedence Clearwater Revival
+- Primeiros erros (Chove) - Capital Inicial
+
+### Exercício 9 - Pop Rock
+
+Pode tocar tudo pra baixo.
+
+Bastante usado no sertanejo.
+
+TODO: Colocar o rítmo aqui.
+
+- Tudo de novo - Zezé Di Camargo & Luciano
+- Porta do mundo - Peão Carreiro & Zé Paulo
+- Folha Seca - Amado Batista
+- Entre tapas e beijos - Leandro & Leonardo
+
+#### Variação - Rock
+
+Bastante usado no sertanejo.
+
+- Have You Ever Seen The Rain? - Creedence Clearwater Revival
+- Como um anjo - César Menotti & Fabiano
+- Fada - Victor & Leo
+- Nova York - Victor & Leo
+- Sem Medo de Ser Feliz - Zezé Di Camargo & Luciano
+- Entre tapas e beijos - Leandro & Leonardo
+- Caso marcado - César Menotti & Fabiano
+
+### Exercício 10 - Pop Rock Balada
+
+TODO: Colocar o rítmo aqui.
+
+### Exercício 11 - Baião Sertanejo
+
+TODO: Colocar o rítmo aqui.
+
+- O Último Julgamento - Milionário e José Rico
+- Meu Velho Pai - Edson & Hudson e Léo Canhoto & Robertinho
+- Menino da Porteira - Sérgio Reis
+
+### Exercício 12 - Reggae
+
+TODO: Colocar o rítmo aqui.
+
+### Exercício 13 - Toada (ou canção)
+
+TODO: Colocar o rítmo aqui.
+
+Utopia - Padre Zezinho
+
+Chico Mineiro - Tonico & Tinoco
+
+### Exercício 14 - Bolero (ou bachata)
+
+Bastante usado no sertanejo.
+
+TODO: Colocar o rítmo aqui.
+
+- Você vai ver - Zezé Di Camargo & Luciano
+- Solamente una vez - Luis Miguel
+- Laço Aberto - Althair e Alexandre
+- Pão de mel - Zezé Di Camargo & Luciano
+- As andorinhas - Trio Parada Dura
+- Sosseguei - Jorge & Mateus
+- A Mala É Falsa - Felipe Araújo
+- Apelido carinhoso - Gusttavo Lima
+- Louca de saudade - Jorge & Mateus
+- Ar-condicionado no 15 - Wesley Safadão
+- Largado às traças - Zé Neto & Cristiano
+- 50 reais - Naiara Azevedo
+
+### Variação
+
+### Exercício 15 - Rasqueado
+
+Parecido com a Guarânia.
+
+TODO: Colocar o rítmo aqui.
+
+Saudade de minha terra - Chitãozinho e Xoxoró
+
+### Exercício 16 - Xote
+
+TODO: Colocar o rítmo aqui.
+
+- Esperando na janela - Gilberto Gil
+- O xote das meninas - Luiz Gonzaga
+- Xote dos milagres - Falamansa
+
+#### Xote lento
+
+```
+1 2 3 4
+P v P v
+
+P = Polegar
+v = Indicador
+```
+
+- Pense em mim - Leandro & Leonardo
+
+### Exercício 17 - Bossa Nova
+
+TODO: Colocar o rítmo aqui.
+
+### Exercício 18 - Samba
+
+TODO: Colocar o rítmo aqui.
+
+### Exercício 19 - Guarânia
+
+Rítmo de três tempos, 1 e 2 e 3 e.
+
+Bastante usado no sertanejo.
+
+TODO: Colocar o rítmo aqui.
+
+- Boate azul - Bruno e Marrone
+- Ainda Ontem Chorei de Saudade - João Mineiro e Marciano
+- Fio de Cabelo - Chitãozinho & Xororó
+- No Colo da Noite - Milionário e José Rico
+- Tocando em frente - Almir Sater
+- Telefone Mudo - Trio Parada Dura
+- Flor e o Beija-flor - Henrique & Juliano
+- Caminhando - Geraldo Vandré
+
+#### 3 variações da Guarânia
+
+- Guarânia 1b
+  - Chalana - Almir Sater
+- Guarânia 2
+- Guarânia 2b
+  - Franguinho na panela - Cezar & Paulinho
+- Guarânia 3
+- Guarânia 3b
+   - Ipê E O Prisioneiro - Liu & Léu
+   - Cabecinha no ombro - Almir Sater
+
+### Exercício 20 - Bolero
+
+Bastante usado no sertanejo.
+
+TODO: Colocar o rítmo aqui.
+
+- Menino da porteira - Sérgio Reis
+- A vaca já foi pró brejo - Tião Carreiro & Pardinho
+- Ô de Casa, Ô de Fora - Rionegro & Solimões
+- E daí? - Guilherme & Santiago
+
+### Exercício 21 - Valsa
+
+Bastante usado no sertanejo (canção rancheira).
+
+TODO: Colocar o rítmo aqui.
+
+- Camisa manchada - Chrystian & Ralf
+- Estrada da Vida - Milionário e José Rico
+- Assino Com X - Gilberto & Gilmar
+- Crises de Amor - João Mineiro & Marciano
+- Amor sem limite - Roberto Carlos
+
+## Ponteios
+
+Sol para Ré, Sol, Fá# e Mi.
+
+### Exercício 22 - Vaneirão (ou vaneira, ou arrocha, parecido com o pagode da viola)
+
+TODO: Colocar o rítmo aqui.
+
+- Logo eu - Jorge & Mateus
+- Sorte Que Cê Beija Bem - Maiara & Maraisa
+- Atrasadinha - Felipe Araújo
+- Maus Bocados - Cristiano Araújo
+- Balada (Tchê tcherere tchê tchê) - Gusttavo Lima
+- Amor da sua cama - Felipe Araújo
+- Propaganda - Jorge & Mateus
