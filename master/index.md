@@ -34,3 +34,32 @@ nav_order: 5
 1. Estudo de Técnica
 1. Cronograma e Planilha de Estudos
 1. 2 Lives gravadas do facebook explicando os vídeos do curso
+
+## Módulo 5
+
+1. Harmonia Funcional
+2. Estudo do II V I Maior e menor
+3. II V I estruturais (acordes x escalas)
+4. Escala menor Melódica:
+   1. Histórico / formação
+   2. Digitações: tradicional (sistema 5) / 3 notas por corda
+   3. Aplicação prática
+5. Campo Harmônico Menor Melódico:
+   1. Formação
+   2. Acordes gerados
+   3. Arpejos gerados
+   4. Modos gerados / análise
+   5. Aplicação prática
+6. Resolução do Trítono
+7. Acorde Dominante x Dominante Alterado
+8. Estudo específico sobre Mixo 4#, Lócrio 9 e Alt. 7
+9. Dicionário de Acordes Dominantes
+10. II V I: Aplicação prática / lines
+11. Sub V (acorde substituto do V° grau)
+12. Subdominantes menores (substituições)
+13. Dom Dim:
+    1.  Formação
+    2.  Digitações
+    3.  Acordes gerados / simetrias
+    4.  Aplicação prática
+14. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)

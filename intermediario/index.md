@@ -46,3 +46,27 @@ has_children: true
 1. Vamps modais
 1. Backing Tracks em Mp3 de cada modo
 1. Teoria do apoio
+
+## Módulo 2
+
+1. Intervalos
+    1. Formação
+    2. Intervalos simples / Compostos / Harmônicos / Melódicos
+    3. Inversão de Intervalos
+    4. Localização Geométrica dos Intervalos
+    5. Técnica utilizando intervalos / padrões
+    6. Aplicação prática
+2. Tríades
+   1. Formação
+   2. Tríades Maiores, menores, aumentadas e diminutas
+   3. Inversões
+   4. Tríades Fechadas
+   5. Tríades Abertas
+   6. Técnica utilizando tríades (palhetada alternada, sweep picking)
+   7. Arpejos (fechados, abertos, com saltos)
+   8. Licks / Aplicação Prática
+3. Campo Harmônico Maior (Triádico):
+   1. Formação
+   2. Tríades Fechadas / Tríades Abertas (campo harmônico nos modelos de E, D e A / campo harmônico por região)
+4. Aplicação Prática
+5. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)

@@ -48,3 +48,20 @@ has_children: true
     - Divisão por tópicos
 1. Repertório (Classic Rock c/ solos improvisados)
 1. Backing Tracks em Mp3 de cada tonalidade -->
+
+## Módulo 1
+
+1. Escalas Maiores e Relativas Menores:
+   1. Formação
+   2. Ciclo de 5as e 4as
+   3. Armadura de Clave
+   4. Digitações Tradicionais / 3 Notas por Corda
+   5. Técnica / padrões
+   6. Licks
+   7. Aplicação prática / improvisação
+2. Harmonia (Sistema 5):
+   1. Escala X Acorde
+   2. Dicionário de Acordes em 5 regiões
+   3. Análise de Tonalidades Maiores e menores (seqüências diatônicas)
+3. Teoria Elementar / Leitura Rítmica e Melódica
+4. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)

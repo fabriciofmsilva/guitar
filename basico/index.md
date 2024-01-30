@@ -44,3 +44,41 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
 1. Escala de Dó  Maior
 1. Cronograma de Estudos
 1. Repertório (Classic Rock base, solos básicos e punk rock) -->
+
+## Básico 1
+
+1. Fundamentos da guitarra
+2. Notas no braço do instrumento
+3. Tom e Semitom
+4. Acidentes Musicais
+5. Partitura x Tablatura
+6. Termos Técnicos da Guitarra
+7. Técnica de Mão Direita - palhetada alternada
+8. Postura e Técnica de Mão Esquerda
+9. Escala Pentatônica
+   1.  Formação
+   2.  Padrões
+   3.  Licks
+   4.  Aplicação Prática
+10. Harmonia Básica / Dicionário Básico de Acordes
+11. Seqüências Harmônicas (Aplicação)
+12. Blues Playing
+13. Teoria Elementar / Leitura Rítmica e Melódica
+14. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+## Básico 2
+
+1. Técnica II
+   1. Ligadura
+   2. Independência dos dedos
+   3. Cromáticos
+   4. Cordas Adjacentes
+2. Escala Pentatônica II
+   1. Padrões
+   2. Licks
+   3. Pentatônica Blues
+   4. Improvisação / Blues Playing
+3. Visualizando as oitavas em todas as regiões (preparação para o “Sistema 5”)
+4. Harmonia Básica II (harmonizando em diferentes regiões)
+5. Teoria Elementar II / Leitura rítmica e melódica
+6. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
