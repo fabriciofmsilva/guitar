@@ -70,3 +70,18 @@ has_children: true
    2. Tríades Fechadas / Tríades Abertas (campo harmônico nos modelos de E, D e A / campo harmônico por região)
 4. Aplicação Prática
 5. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+- Intervalos
+- Visualizando os intervalos no braço
+- Tipos de intervalos
+- Tríades (maior ,menor, diminuta e aumentada ) 
+- Conceito consonância e dissonância,
+- Tríades fechadas e abertas
+- Campo Harmônico Maior e Menor
+- Tocando o C.H em 5 regiões
+- Intervalos x Padrões
+- Arpejos (Modelo de A, E, C ) 
+- Arpejos com salto
+- Técnica Sweep
+- Leitura Rítmica e melódica
+- Repertório com aplicação (rock, blues, pop, funk, jazz., etc )

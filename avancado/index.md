@@ -49,6 +49,22 @@ nav_order: 4
 6. Leitura Rítmica e Melódica
 7. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
 
+- Tétrades
+- C.H Tétrade
+- Arpejos Tétrades
+- Frases e ideias com arpejos tétrades
+- Modos gregos (frases, conceito)
+- Penta m6 x M7
+- Frases e aplicação
+- Harmonia Modal
+- Harmonizando todos os modos
+- Ideias x Harmonização
+- Ideias Quartais
+- Conceito Quartal x Aplicação
+- Leitura Rítmica e Melódico
+- Sobreposição de acordes
+- Repertório com aplicação (rock, blues, pop, funk, jazz)
+
 ## Módulo 4
 
 1. Pentatônica m6 / Pentatônica M7
@@ -74,3 +90,17 @@ nav_order: 4
 5. Teoria elementar (compassos compostos / quiálteras nos compassos simples e compostos)
 6. Leitura
 7. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+- Escala Menor Harmônica
+- Formação da escala com aplicação prática
+- Acordes gerados
+- Modos gerados
+- Padrões melódicos
+- Frases para improviso
+- C.H
+- Arpejos do C.H Menor Harmônico
+- Licks
+- Simetria dos diminutos / aumentados
+- Compassos compostos / quiálteras dos compassos simples e compostos
+- Leitura rítmica e melódica
+- Repertório com aplicação (rock, blues, pop, funk, jazz)

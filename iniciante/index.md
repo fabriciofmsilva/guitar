@@ -65,3 +65,20 @@ has_children: true
    3. Análise de Tonalidades Maiores e menores (seqüências diatônicas)
 3. Teoria Elementar / Leitura Rítmica e Melódica
 4. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+- Ciclo de 5s e 4s
+- Escala Maior e relativa Menor
+- Armadura de Clave
+- Digitações tradicionais / 3 nota por corda
+- Escala fechada
+- Técnica
+- Padrões
+- Licks
+- Sistema 5 (CAGED)
+- Dicionário de acordes em 5 regiões
+- Escala Maior e Menor X CAGED
+- Harmonizando em 5 regiões
+- Harmonizando acordes Tétrades
+- Teoria elementar 
+- Leitura ritmica e melódica
+- Repertório com aplicação (rock, blues, pop, funk, jazz )

@@ -66,6 +66,24 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
 13. Teoria Elementar / Leitura Rítmica e Melódica
 14. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
 
+- Fundamentos da guitarra
+- Acidentes musicais
+- Tom x semitom
+- Estudando com metrônomo
+- Afinação
+- Postura
+- Dicas de como estudar
+- Teoria musical
+- Leitura rítmica e melódica
+- Exercícios de técnica
+- Ornamentos
+- Harmonia básica
+- Primeiras levadas
+- Primeiros licks
+- Levadas básicas de Blues
+- Pentatônica (formação, padrões, licks, aplicação prática)
+- Repertório com aplicação (estilo Rock, Metal, Blues, Pop, Funk, jazz)
+
 ## Básico 2
 
 1. Técnica II
@@ -82,3 +100,13 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
 4. Harmonia Básica II (harmonizando em diferentes regiões)
 5. Teoria Elementar II / Leitura rítmica e melódica
 6. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+- Tecnica 2 (ligaduras, independência dos dedos, cromáticos, cordas adjacentes)
+- Visualizando as oitavas em todas regiões
+- Penta Blues (padrões, licks de Blues ,improvisando com a Penta Blues)
+- Leitura Rítmica e melódica
+- Penta Maior e Menor( Licks, padrões, visualizando a escala de várias formas)
+- Harmonia Básica 2
+- Harmonizando em diferentes regiões
+- Pestanas
+- Repertório com aplicação (rock, blues, pop, funk, jazz)

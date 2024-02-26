@@ -63,3 +63,27 @@ nav_order: 5
     3.  Acordes gerados / simetrias
     4.  Aplicação prática
 14. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
+
+
+- Escala Menor Melódica
+- Conceito
+- Formação da Escala Menor melódica
+- Acordes gerados
+- Arpejos gerados
+- Modos gerados
+- Frases com aplicação prática para improviso
+- Harmonia funcional
+- Estudo do II V I Maior e Menor x aplicação,
+- Resolução do Trítono
+- Sub V
+- Frases II V7 alt  I 
+- Frases IIm7 (5b) 
+- V7 alt Im
+- Subdominante Menor x Substituições
+- Exemplos práticos
+- Dom Dim
+- Frases Dom Dim
+- Walking Bass
+- Levadas Rítmicas
+- Dicionário de acordes dominantes
+- Repertório com aplicação (rock, blues, pop, funk, jazz, fusion)
