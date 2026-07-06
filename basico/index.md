@@ -13,13 +13,17 @@ next:
 
 # Básico
 
-## Boas vindas
+## Boas-vindas
 
-Seja bem-vindo ao meu guia de estudos que vai do básico ao master.
+Este é o começo do guia.
 
-Eu uso esse repositório para salvar algumas aulas e fazer algumas anotações baseadas em cursos, livros e treinos que faço.
+Quando comecei a organizar essas anotações, a intenção era simples: juntar em um lugar só o que eu estava estudando e praticando. Com o tempo, isso virou um roteiro para voltar aos fundamentos sempre que alguma coisa parecia travada.
 
-Fique a vontade para ajudar a fazer esse repositório crescer.
+O básico não é uma fase para passar rápido. Afinação, postura, ritmo, acordes abertos, pestanas e escalas aparecem o tempo todo. Mesmo quando o assunto fica mais avançado, a dificuldade quase sempre volta para alguma dessas coisas.
+
+Uso este repositório para guardar aulas, exercícios, referências de cursos, livros e treinos. Algumas páginas explicam conceitos. Outras são mais parecidas com lembretes de estudo ou listas de repertório.
+
+Fique à vontade para sugerir melhorias e ajudar este guia a crescer.
 
 <!-- 1. Anatomia da Guitarra
 1. Conceitos Básicos
@@ -47,6 +51,8 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
 
 ## Básico 1
 
+O primeiro bloco é para criar familiaridade com o instrumento. Antes de pensar em velocidade ou improvisação, vale saber onde estão as notas, como contar o tempo e como tocar sem tensionar as mãos.
+
 1. Fundamentos da guitarra
 2. Notas no braço do instrumento
 3. Tom e Semitom
@@ -61,30 +67,25 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
    3.  Licks
    4.  Aplicação Prática
 10. Harmonia Básica / Dicionário Básico de Acordes
-11. Seqüências Harmônicas (Aplicação)
+11. Sequências Harmônicas (Aplicação)
 12. Blues Playing
 13. Teoria Elementar / Leitura Rítmica e Melódica
 14. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
 
-- Fundamentos da guitarra
-- Acidentes musicais
-- Tom x semitom
-- Estudando com metrônomo
-- Afinação
-- Postura
-- Dicas de como estudar
-- Teoria musical
-- Leitura rítmica e melódica
-- Exercícios de técnica
-- Ornamentos
-- Harmonia básica
-- Primeiras levadas
-- Primeiros licks
-- Levadas básicas de Blues
-- Pentatônica (formação, padrões, licks, aplicação prática)
-- Repertório com aplicação (estilo Rock, Metal, Blues, Pop, Funk, jazz)
+Na prática, este módulo deve ajudar com perguntas bem diretas:
+
+- Como afinar e segurar o instrumento sem criar tensão desnecessária?
+- Onde estão as notas no braço da guitarra?
+- Qual é a diferença entre tom, semitom e acidentes musicais?
+- Como ler tablatura, partitura básica e figuras rítmicas?
+- Como estudar com metrônomo sem transformar o treino em algo mecânico?
+- Como aplicar acordes, levadas, licks e pentatônicas em músicas reais?
+
+Técnica isolada ajuda, mas o repertório mostra se o assunto entrou mesmo na mão e no ouvido.
 
 ## Básico 2
+
+O segundo bloco aprofunda o que já apareceu no primeiro. Aqui o estudo começa a sair do movimento isolado e vai para a fluência: ligar notas, visualizar oitavas, mudar de região, reconhecer padrões e improvisar com mais intenção.
 
 1. Técnica II
    1. Ligadura
@@ -96,17 +97,20 @@ Fique a vontade para ajudar a fazer esse repositório crescer.
    2. Licks
    3. Pentatônica Blues
    4. Improvisação / Blues Playing
-3. Visualizando as oitavas em todas as regiões (preparação para o “Sistema 5”)
+3. Visualizando as oitavas em todas as regiões (preparação para o "Sistema 5")
 4. Harmonia Básica II (harmonizando em diferentes regiões)
 5. Teoria Elementar II / Leitura rítmica e melódica
 6. Repertório com aplicação dos itens acima mencionados (vários estilos: Rock, Pop, Funk, Blues, Country, Jazz)
 
-- Tecnica 2 (ligaduras, independência dos dedos, cromáticos, cordas adjacentes)
-- Visualizando as oitavas em todas regiões
-- Penta Blues (padrões, licks de Blues ,improvisando com a Penta Blues)
-- Leitura Rítmica e melódica
-- Penta Maior e Menor( Licks, padrões, visualizando a escala de várias formas)
-- Harmonia Básica 2
-- Harmonizando em diferentes regiões
-- Pestanas
-- Repertório com aplicação (rock, blues, pop, funk, jazz)
+Os principais pontos de atenção são:
+
+- Técnica 2: ligaduras, independência dos dedos, cromáticos e cordas adjacentes.
+- Visualização das oitavas em todas as regiões.
+- Pentatônica blues: padrões, licks e improvisação.
+- Leitura rítmica e melódica.
+- Pentatônica maior e menor: licks, padrões e diferentes formas de visualização.
+- Harmonia básica 2 e harmonização em diferentes regiões.
+- Pestanas.
+- Repertório com aplicação em rock, blues, pop, funk e jazz.
+
+O objetivo não é decorar uma lista grande. É começar a perceber relação entre escala, acorde, levada e música. Quando isso acontece, o estudo fica menos solto e a prática começa a fazer mais sentido.
