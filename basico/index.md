@@ -7,8 +7,8 @@ previous:
     url: ../index
     title: Página Inicial
 next:
-    url: guitarra.html
-    title: A guitarra
+    url: ./conhecendo-guitarra
+    title: Conhecendo a Guitarra
 ---
 
 # Básico
@@ -26,6 +26,108 @@ O básico não é uma fase para passar rápido. Afinação, postura, ritmo, acor
 Uso este repositório para guardar aulas, exercícios, referências de cursos, livros e treinos. Algumas páginas explicam conceitos. Outras são mais parecidas com lembretes de estudo ou listas de repertório.
 
 Fique à vontade para sugerir melhorias e ajudar este guia a crescer.
+
+## Básico
+
+## 1. Conhecendo a Guitarra
+
+Objetivo: criar familiaridade com o instrumento.
+
+- Fundamentos da guitarra
+- Anatomia da guitarra
+- Equipamentos essenciais
+- Como afinar a guitarra
+- Postura: Como segurar a guitarra
+
+Ao final o aluno consegue produzir som limpo e estudar sem criar maus hábitos.
+
+## 2. Entendendo o braço da guitarra
+
+Objetivo: entender como a guitarra é organizada.
+
+- Notas naturais
+- Notas no braço
+- Tom e semitom
+- Acidentes musicais
+- Oitavas
+- Intervalos (introdução)
+
+Agora o braço deixa de ser um monte de casas sem sentido.
+
+## 3. Aprendendo a ler música
+
+Objetivo: conseguir estudar qualquer material.
+
+- Tablatura
+- Partitura (introdução)
+- Leitura rítmica
+- Figuras musicais
+- Compassos
+- Pulsação
+- Uso do metrônomo
+
+Aqui o aluno ganha autonomia para estudar.
+
+## 4. Primeiras escalas
+
+Objetivo: começar a criar vocabulário.
+
+- Pentatônica menor
+- Padrões
+- Licks simples
+
+Tudo relacionado à pentatônica fica concentrado.
+
+## 5. Primeiras frases e improvisação
+
+Objetivo: transformar exercícios em música.
+
+- Licks
+- Fraseado
+- Call & Response
+- Improvisação básica
+- Blues Playing
+- Aplicação sobre backing tracks
+
+Aqui o aluno começa a soar musical.
+
+## 6. Harmonia para guitarristas
+
+Objetivo: acompanhar músicas.
+
+- Formação de acordes
+- Acordes abertos
+- Pestanas
+- Sequências harmônicas
+- Levadas
+
+Tudo voltado ao acompanhamento.
+
+## 7. Tocando músicas
+
+Objetivo: integrar tudo.
+
+Repertório organizado por dificuldade.
+
+- Nível 1
+   - riffs simples
+   - acordes abertos
+- Nível 2
+   - pentatônica
+   - solos simples
+- Nível 3
+  - improvisação
+  - pestanas
+  - mudanças de região
+
+Misturando estilos:
+
+- Rock
+- Blues
+- Pop
+- Funk
+- Country
+- Jazz
 
 <!-- 1. Anatomia da Guitarra
 1. Conceitos Básicos
