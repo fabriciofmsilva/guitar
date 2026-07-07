@@ -27,7 +27,7 @@ Os primeiros conceitos musicais parecem simples no papel, mas é aqui que a base
 
 ## Notas musicais
 
-![](./images/notas-musicais.jpeg)
+![Ilustração de notas musicais em pauta mostrando símbolos de notas e clave.](./images/notas-musicais.jpeg)
 
 Quando começamos a estudar música, as notas são o ponto de partida. São os nomes que usamos para organizar sons diferentes, quase como um alfabeto.
 
@@ -53,6 +53,8 @@ Além das 7 notas naturais, existem mais 5 notas alteradas, conhecidas como acid
 ---
 
 ## Cifras
+
+![Ilustração de cifras de acordes com letras e símbolos usados para representar harmonias.](./images/cifras.jpeg)
 
 Se as notas são o alfabeto, as cifras são um atalho para os acordes.
 
