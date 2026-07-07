@@ -14,7 +14,7 @@ next:
 # Conceitos básicos
 {: .no_toc }
 
-Conceitos musicais iniciais.
+Os primeiros conceitos musicais parecem simples no papel, mas é aqui que a base começa a ser construída. Se essa parte fica vaga, o resto tende a virar decoreba.
 {: .fs-6 .fw-300 }
 
 ## Tópicos
@@ -27,43 +27,51 @@ Conceitos musicais iniciais.
 
 ## Notas musicais
 
-As notas musicais são os elementos básicos da música e são usadas para representar os diferentes sons que podem ser produzidos por um instrumento musical. Existem sete notas musicais principais: Dó, Ré, Mi, Fá, Sol, Lá e Si, que são representadas pelas letras do alfabeto.
+![](./images/notas-musicais.jpeg)
 
-Cada nota musical tem uma frequência específica, medida em Hertz (Hz), que determina a altura do som. A nota Dó, por exemplo, tem uma frequência de cerca de 261,6 Hz, enquanto a nota Lá tem uma frequência de cerca de 440 Hz.
+Quando começamos a estudar música, as notas são o ponto de partida. São os nomes que usamos para organizar sons diferentes, quase como um alfabeto.
 
-As notas musicais são representadas no papel através de símbolos chamados de notas musicais. Existem diferentes tipos de notas musicais, como a semibreve, a mínima, a semínima, a colcheia, a semicolcheia, entre outras, cada uma com uma duração específica.
+Na música ocidental, trabalhamos com 7 notas naturais:
 
-As notas musicais também são usadas para formar escalas musicais, que são sequências de notas tocadas em ordem específica. Existem diferentes escalas musicais, como a escala maior, a escala menor, a escala pentatônica, entre outras, cada uma com sua própria sequência de notas.
+`Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá` e `Si`.
 
-Os músicos usam as notas musicais para compor, tocar e transcrever música, e é importante ter um bom entendimento das notas musicais para se tornar um músico proficiente.
+Vale saber lê-las nas duas direções:
 
-Na música ocidental temos 7 notas, chamadas naturais.
+- Ascendente: `Dó`, `Ré`, `Mi`, `Fá`, `Sol`, `Lá`, `Si`
+- Descendente: `Si`, `Lá`, `Sol`, `Fá`, `Mi`, `Ré`, `Dó`
 
-Dó, Ré, Mi, Fá, Sol, Lá, Si
+Cada nota está ligada a uma altura sonora. Em termos físicos, isso significa uma frequência medida em Hertz (Hz). O Lá usado como referência de afinação costuma ser o Lá 440 Hz.
 
-Devemos saber ler de forma ascendente (Dó, Ré, Mi, Fá, Sol, Lá, Si) e Descendente (Si, Lá, Sol, Fá, Mi, , Ré, Dó).
+No papel, isso aparece na partitura. Ali, cada símbolo indica altura e duração. Semibreve, mínima, semínima, colcheia e semicolcheia são alguns exemplos de valores rítmicos.
 
-Além das 7 notas naturais temos mais 5 notas conhecidas como acidentes músicas (veremos mais em breve), formando um total de 12 notas.
+As notas não aparecem sozinhas por muito tempo. Elas formam escalas, e é daí que vêm boa parte das sensações que associamos à música: estabilidade, tensão, repouso, expectativa.
+
+Mais adiante, isso vai fazer diferença quando começarmos a reconhecer padrões no braço da guitarra. Por agora, o essencial é perceber que nomear as notas ajuda a enxergar a estrutura por trás do som.
+
+Além das 7 notas naturais, existem mais 5 notas alteradas, conhecidas como acidentes musicais. No sistema ocidental, isso fecha 12 sons dentro da oitava.
 
 ---
 
 ## Cifras
 
-As cifras são uma forma de notação musical usada para representar acordes de guitarra e outras formas de acompanhamento em músicas. Elas consistem em uma letra ou número que representa o nome do acorde, junto com símbolos que indicam como o acorde deve ser tocado.
+Se as notas são o alfabeto, as cifras são um atalho para os acordes.
 
-Por exemplo, a cifra de um acorde de dó maior é representada pela letra "C" seguida de um símbolo "+" para indicar que a quinta nota do acorde (G) deve ser aumentada em um semitom. A cifra de um acorde de lá menor é representada pela letra "Am" para indicar que se trata de um acorde menor.
+Elas representam acordes usando letras e símbolos. Em vez de escrever todas as notas de um acorde, usamos uma notação mais simples para tocar acompanhamento.
 
-As cifras são usadas principalmente por guitarristas, violonistas e outros músicos de cordas que tocam acompanhamentos em músicas. Elas são uma forma rápida e fácil de notar os acordes de uma música e podem ser usadas para tocar músicas rapidamente sem ter que ler uma partitura completa.
+Por exemplo:
 
-As cifras também podem incluir símbolos adicionais, como barras para indicar a divisão de compasso, letras minúsculas para indicar acordes menores e números romanos para indicar a posição de um acorde em uma progressão de acordes. É importante lembrar que as cifras representam apenas os acordes de uma música e não indicam a melodia ou a forma como a música deve ser tocada.
+- `C` representa o acorde de Dó maior.
+- `Am` representa o acorde de Lá menor.
 
-As cifras são usadas para representar acordes, que são compostos por várias notas tocadas simultaneamente. Portanto, as cifras não são adequadas para representar notas musicais individuais, que são tocadas de forma sequencial.
+Isso parece pequeno, mas muda a forma como a música é lida. Em vez de depender de uma partitura completa, o músico consegue acompanhar uma canção com rapidez. Por isso, cifras são tão comuns entre guitarristas e violonistas.
 
-As notas musicais são geralmente representadas no papel através de uma pauta musical, que consiste em cinco linhas horizontais onde as notas são colocadas. Cada linha e espaço na pauta representa uma nota musical diferente.
+As cifras normalmente indicam apenas o acorde. Elas não mostram toda a melodia nem explicam exatamente o ritmo do acompanhamento. Dizem o que tocar, mas não entregam tudo sobre como tocar.
 
-As cifras são úteis para músicos que desejam acompanhar músicas tocando acordes na guitarra ou violão. Se um músico desejar tocar a melodia de uma música, ele pode usar a pauta musical para transcrever a música em notas musicais e, em seguida, tocar a melodia em seu instrumento. No entanto, se o músico quiser acompanhar a música com acordes, as cifras podem ser usadas para indicar qual acorde deve ser tocado em cada parte da música.
+Isso é uma limitação, mas também uma liberdade. A mesma progressão pode ser tocada de maneiras diferentes, com ritmos, levadas e sonoridades distintas. A cifra funciona como um mapa, não como uma gravação pronta.
 
-Uma forma de representar as notas musicais por letras.
+Alguns símbolos aparecem junto das cifras para indicar variações, como acordes menores, sétimas e outras tensões. Aos poucos, isso amplia o vocabulário sem mudar a lógica principal: cada símbolo aponta para uma harmonia específica.
+
+Uma forma prática de lembrar a equivalência entre notas e cifras é esta:
 
 | Nota | Cifra |
 | :--: | :---: |
@@ -74,3 +82,5 @@ Uma forma de representar as notas musicais por letras.
 | Sol  | G     |
 | Lá   | A     |
 | Si   | B     |
+
+Quando entendemos essa correspondência, tudo fica menos misterioso. O braço da guitarra deixa de parecer um conjunto de casas soltas e passa a ter sentido. Essa clareza vale mais do que decorar meia dúzia de acordes isolados.
