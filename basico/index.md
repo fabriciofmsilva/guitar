@@ -13,6 +13,8 @@ next:
 
 # Básico
 
+![o básico da guitarra](./images/guitarra-basico.jpeg)
+
 ## Boas-vindas
 
 Este é o começo do guia.
