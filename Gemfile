@@ -34,3 +34,8 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Template
 gem "just-the-docs"
+
+gem "csv", "~> 3.3"
+gem "logger", "~> 1.7"
+gem "base64", "~> 0.3.0"
+gem "bigdecimal", "~> 4.1"
