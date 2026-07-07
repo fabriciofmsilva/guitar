@@ -27,6 +27,8 @@ A guitarra elétrica parece simples quando olhamos de fora: madeira, cordas, cap
 
 ## História da guitarra
 
+![Linha do tempo da história da guitarra, da evolução do alaúde às guitarras elétricas modernas.](./images/hitoria-guitarra.jpeg)
+
 A guitarra elétrica nasceu de um problema prático: volume.
 
 Em bandas maiores, especialmente no jazz e no blues do começo do século XX, o violão não conseguia competir com metais, bateria e piano. Tocar mais forte não resolvia. Era preciso transformar a vibração das cordas em sinal elétrico e mandar esse sinal para um amplificador.
@@ -43,7 +45,7 @@ Essa é uma boa primeira lição. Guitarra elétrica envolve nota, timbre, volum
 
 ## Conhecendo a guitarra (anatomia da guitarra)
 
-![desenho de uma guitarra elétrica](./images/partes-guitarra.jpeg)
+![Diagrama de uma guitarra Stratocaster com corpo, braço, cabeça, captadores, ponte, trastes, tarraxas e controles identificados.](./images/partes-guitarra.jpeg)
 
 Conhecer as partes da guitarra evita muita confusão no começo. Quando alguém fala "captador da ponte", "regular o tensor", "abaixar a ação" ou "abrir o tone", fica mais fácil acompanhar se você sabe onde cada peça fica.
 
@@ -78,6 +80,8 @@ Um jeito simples de estudar a anatomia é pegar a guitarra desligada e nomear ca
 
 ## Modelos de guitarras
 
+![Pôster com seis guitarras elétricas alinhadas: Stratocaster, Telecaster, Les Paul, ES-335, SG e Explorer.](./images/modelos-guitarra.jpeg)
+
 Modelo de guitarra também mexe com tocabilidade e som. O formato do corpo, a ponte, a escala, a posição dos captadores e o tipo de madeira mudam a sensação de tocar e o resultado no amplificador.
 
 Alguns modelos aparecem com frequência porque viraram referência:
@@ -95,6 +99,8 @@ Para quem está começando, o melhor modelo é o que dá vontade de pegar e estu
 ---
 
 ## Amplificador
+
+![Diagrama de um amplificador de guitarra preto com entradas, ganho, volume, equalização, reverb, master, power, gabinete e falante identificados.](./images/amplificador.jpeg)
 
 O amplificador deixa a guitarra mais alta, mas também muda o timbre. Ele faz parte do som.
 
@@ -117,6 +123,8 @@ Também existem amplificadores valvulados, transistorizados, digitais, combos e 
 
 ## Pedal
 
+![Cinco pedais de guitarra em cadeia de sinal: drive, chorus, delay, reverb e boost.](./images/pedais.jpeg)
+
 Pedais mudam o sinal da guitarra antes de ele chegar ao amplificador. Um pedal pode empurrar o amp, distorcer o som, repetir notas, simular espaço ou filtrar frequências.
 
 Normalmente um pedal faz uma função principal. Isso ajuda a montar o som por partes. Você pode usar um overdrive para empurrar o amplificador, um delay para repetir frases e um reverb para dar sensação de ambiente.
@@ -138,6 +146,8 @@ Uma boa prática é testar um efeito por vez. Quando tudo fica ligado ao mesmo t
 
 ## Pedaleira
 
+![Pedaleira multiefeitos com vários pedais conectados por cabos, botões e footswitches visíveis.](./images/pedaleiras.jpeg)
+
 Pedaleira junta vários efeitos em um único equipamento. Em vez de comprar pedal por pedal, você usa presets com combinações de overdrive, delay, reverb, modulação e outros efeitos.
 
 Muitas pedaleiras também simulam amplificadores e caixas. Isso permite estudar com fone, gravar direto no computador ou tocar ligado em uma mesa de som.
@@ -149,6 +159,8 @@ O cuidado é não virar colecionador de preset antes de entender o som básico. 
 ---
 
 ## Palheta
+
+![Conjunto de palhetas de guitarra em diferentes cores, espessuras e formatos.](./images/palhetas.jpeg)
 
 A palheta parece detalhe, mas muda bastante o ataque. Uma palheta fina dobra mais e costuma soar mais leve. Uma palheta grossa responde com mais firmeza e pode dar mais precisão em riffs, palhetada alternada e solos.
 
