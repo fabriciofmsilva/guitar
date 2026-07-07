@@ -13,7 +13,7 @@ next:
 
 # Básico
 
-![o básico da guitarra](./images/guitarra-basico.jpeg)
+![Infográfico sobre fundamentos da guitarra em um estúdio escuro, com guitarra elétrica, caderno de estudos e amplificador. Destaca postura, técnica, ritmo, teoria aplicada, repertório e prática diária, incentivando consistência, foco e paciência.](./images/guitarra-basico.jpeg)
 
 ## Boas-vindas
 
